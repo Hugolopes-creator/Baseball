@@ -2,4 +2,6 @@
 title: "Exploring Baseball History"
 ---
 
-Welcome! This project explores the rich history of Major League Baseball through its data, uncovering how the game, its teams, and its players have evolved across generations. Using records from the comprehensive Lahman Baseball Database, we look at the numbers behind baseball's biggest trends and milestones.
+This site explores more than 150 years of Major League Baseball through the Lahman Baseball Database, tracing the rise of power hitting across eras. Looking at raw yearly totals makes strike- and pandemic-shortened seasons like 1981, 1994, and 2020 look like sudden collapses, but dividing home runs by team-games reveals a steady, century-long climb from the dead-ball era to today's record-setting pace.
+
+That surge also reshaped the individual record books: nine of the top fifteen all-time career home run leaders played during the 1994–2009 steroid era, led by Barry Bonds with 762 career home runs and a single-season peak of 73 in 2001. Use the navigation bar above to explore the league-wide trends on **Home runs** and the all-time leaders on **Sluggers**.
