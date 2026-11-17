@@ -1,7 +1,5 @@
 ---
-title: "Baseball"
+title: "Exploring Baseball History"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome! This project explores the rich history of Major League Baseball through its data, uncovering how the game, its teams, and its players have evolved across generations. Using records from the comprehensive Lahman Baseball Database, we look at the numbers behind baseball's biggest trends and milestones.
