@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Exploring Baseball History",
+    "section": "",
+    "text": "This site explores more than 150 years of Major League Baseball through the Lahman Baseball Database, tracing the rise of power hitting across eras. Looking at raw yearly totals makes strike- and pandemic-shortened seasons like 1981, 1994, and 2020 look like sudden collapses, but dividing home runs by team-games reveals a steady, century-long climb from the dead-ball era to today’s record-setting pace.\nThat surge also reshaped the individual record books: nine of the top fifteen all-time career home run leaders played during the 1994–2009 steroid era, led by Barry Bonds with 762 career home runs and a single-season peak of 73 in 2001. Use the navigation bar above to explore the league-wide trends on Home runs and the all-time leaders on Sluggers."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\n\n\n# A tibble: 4 × 4\n  yearID total_hr total_g hr_per_game\n   &lt;int&gt;    &lt;int&gt;   &lt;int&gt;       &lt;dbl&gt;\n1   1981     1781    2788       0.639\n2   1994     3306    3200       1.03 \n3   2019     6776    4858       1.39 \n4   2020     2304    1796       1.28"
+  }
+]
